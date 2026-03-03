@@ -14,8 +14,10 @@ Guide an agent to:
 
 ## Constraints
 
-- Fix one warning at a time
-- The agent does the heavy lifting
+- Small Steps: Fix one warning per PR
+- Persistent Process: Process File / Skill
+- Review: The Agent should review its own work
+- Background: The Agent does not occupy your main workspace (It is not working on your development environment / your branch)
 
 ## Going Meta
 
